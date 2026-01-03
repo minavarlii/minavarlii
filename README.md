@@ -1,10 +1,8 @@
-# Hi, I'm Elif 👋
+Computer Science BSc student with a focused interest in software quality, testing, and reliability.
 
-Computer Science BSc student with a strong interest in building reliable, user-centered software.
+I work on practical projects where correctness, predictable behavior, and defensive logic are important. My background includes Python and C++ projects with unit testing, careful handling of edge cases, and attention to failure modes.
 
-I enjoy working on practical projects that combine clean engineering,
-clear structure, and thoughtful interaction design, with a particular interest in
-Human–Computer Interaction (HCI).
+Some of my projects involve interactive or real-time components, which has increased my interest in testing strategies for non-deterministic systems and user-facing software. I am particularly interested in QA engineering, test automation, and internal tooling in cross-platform environments.
 
 ## 🎓 Education
 **BSc in Computer Science**  
