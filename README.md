@@ -88,6 +88,6 @@ C++ command-line tool to organize files by type
 - Azerbaijani (Fluent)
 
 ## 🎯 Currently
-- Improving documentation and test coverage in personal projects
-- Learning more about CI/CD and automation workflows
-- Preparing for working student and internship roles in software engineering and quality assurance
+- Improving documentation, testing, and reliability in personal projects
+- Exploring CI/CD and basic automation workflows
+- Developing practical software engineering skills
