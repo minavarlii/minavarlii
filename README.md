@@ -1,10 +1,10 @@
 # Hi, I'm Elif 👋
 
-Computer Science BSc student with a strong interest in building **reliable, user-centered software**.
+Computer Science BSc student with a strong interest in building reliable, user-centered software.
 
 I enjoy working on practical projects that combine clean engineering,
 clear structure, and thoughtful interaction design, with a particular interest in
-**Human–Computer Interaction (HCI)**.
+Human–Computer Interaction (HCI).
 
 ## 🎓 Education
 **BSc in Computer Science**  
