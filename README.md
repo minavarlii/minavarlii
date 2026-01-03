@@ -1,91 +1,53 @@
-Computer Science BSc student with a focused interest in software quality, testing, and reliability.
+## Hi, I'm Mina 👋
 
-I work on practical projects where correctness, predictable behavior, and defensive logic are important. My background includes Python and C++ projects with unit testing, careful handling of edge cases, and attention to failure modes.
+I'm a Computer Science BSc student with a strong interest in building reliable, well-tested software and practical engineering tools.
 
-Some of my projects involve interactive or real-time components, which has increased my interest in testing strategies for non-deterministic systems and user-facing software. I am particularly interested in QA engineering, test automation, and internal tooling in cross-platform environments.
+I enjoy working on small to medium-sized projects where correctness, predictable behavior, and clear structure matter. My background includes experience with testing, defensive programming, and cross-platform development, as well as an interest in how users interact with software systems.
 
-## 🎓 Education
-**BSc in Computer Science**  
-Minor: Integrated Social and Cognitive Psychology  
-Constructor University Bremen
+### 🎓 Education
+- BSc in Computer Science  
+- Minor in Integrated Social and Cognitive Psychology  
+- Constructor University Bremen
 
-## 🧠 Interests
-- Software quality assurance & testing
+### 🔍 Technical Interests
+- Software quality & testing
+- Automation and CI pipelines
+- Backend and systems-oriented development
+- Developer tooling and internal utilities
+- Cross-platform applications (Windows, macOS, Linux)
 - Human–Computer Interaction (HCI)
-- Gesture-based & interactive systems
-- Cross-platform applications
-- Developer productivity tools
-- Clean, maintainable software design
+- Frontend development with a focus on reliability and usability
 
-## 🛠️ Technical Skills
+### 🛠 Technical Skills
+- **Languages:** Python, C, C++, JavaScript, TypeScript
+- **Web Technologies:** React, Vite, HTML, CSS
+- **Testing & QA:** pytest, manual test design, regression testing
+- **Automation & Tooling:** Docker, GitHub Actions
+- **Frameworks & Libraries:** OpenCV, MediaPipe, NumPy
+- **Practices:** Agile/Scrum-aware development, Git & GitHub workflows
 
-### Programming Languages
-- Python
-- C / C++
-- JavaScript
-- TypeScript
-- HTML & CSS
+### 🚀 Selected Projects
 
-### Frameworks & Libraries
-- React
-- Vite
-- OpenCV
-- MediaPipe
-- NumPy
-- pytest
+**Scribbly**  
+Gesture-based whiteboard built with Python, OpenCV, and MediaPipe.  
+- Modular architecture separating core logic from hardware-dependent components  
+- Automated unit tests for deterministic logic  
+- Continuous integration with GitHub Actions  
+- Docker-based reproducible test environment  
 
-### Software Engineering Concepts
-- Quality assurance fundamentals
-- Manual testing & debugging
-- Command-line applications
-- File system handling
-- Modular code architecture
-- Version control workflows (Git & GitHub)
+**File Organizer (C++)**  
+Command-line utility for safely organizing files by type.  
+- Defensive filesystem operations using `std::filesystem`  
+- Idempotent design allowing safe repeated execution  
+- Documented edge cases and testing scenarios  
 
-### Development Practices
-- Agile-aware development (iterative, task-based workflows)
-- Basic CI/CD concepts (GitHub Actions)
-- Writing and maintaining technical documentation
-- Issue tracking and incremental improvement
-
-## 💻 Platforms & Systems
-- Windows
-- macOS
-- Linux (daily use)
-
-Experience working across different operating systems and handling
-environment-specific behavior.
-
-## 🚀 Selected Projects
-
-### Scribbly
-Gesture-based whiteboard using real-time hand tracking  
-**Python, OpenCV, MediaPipe**
-- Real-time interaction using computer vision
-- Focus on usability and intuitive gesture control
-- Modular design to support testing and future extensions
-
-### Just a Minute
-Minimal, distraction-free focus timer web application  
-**HTML, CSS, JavaScript**
-- Clean and accessible user interface
-- Timer logic with session tracking and persistence
-- Deployed via GitHub Pages
-
-### File Organizer
-C++ command-line tool to organize files by type  
-**C++17**
-- Directory traversal and safe file handling using `std::filesystem`
-- Defensive logic to prevent overwriting existing files
-- Clear summary output describing performed actions
-
-## 🌍 Languages
+### 🌍 Languages
 - English (C1)
 - German (A1)
 - Turkish (Native)
 - Azerbaijani (Fluent)
 
-## 🎯 Currently
-- Improving documentation, testing, and reliability in personal projects
-- Exploring CI/CD and basic automation workflows
-- Developing practical software engineering skills
+### 🎯 Currently
+- Improving testing, documentation, and reliability in personal projects
+- Exploring automation, CI/CD, and developer productivity tools
+- Preparing for software engineering internships and working student roles
