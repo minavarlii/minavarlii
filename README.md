@@ -2,7 +2,7 @@
 
 I'm a Computer Science BSc student with a strong interest in building reliable, well-tested software and practical engineering tools.
 
-I enjoy working on small to medium-sized projects where correctness, predictable behavior, and clear structure matter. My background includes experience with testing, defensive programming, and cross-platform development, as well as an interest in how users interact with software systems.
+I enjoy working on projects where clear structure and reliable behavior matter. My background includes hands-on project work and an interest in how people interact with technology.
 
 ### 🎓 Education
 - BSc in Computer Science  
@@ -10,21 +10,18 @@ I enjoy working on small to medium-sized projects where correctness, predictable
 - Constructor University Bremen
 
 ### 🔍 Technical Interests
-- Software quality & testing
-- Automation and CI pipelines
-- Backend and systems-oriented development
-- Developer tooling and internal utilities
+- Software development fundamentals
 - Cross-platform applications (Windows, macOS, Linux)
+- Automation and basic CI workflows
 - Human–Computer Interaction (HCI)
-- Frontend development with a focus on reliability and usability
+- Frontend development with a focus on reliability
 
 ### 🛠 Technical Skills
-- **Languages:** Python, C, C++, JavaScript, TypeScript
-- **Web Technologies:** React, Vite, HTML, CSS
-- **Testing & QA:** pytest, manual test design, regression testing
-- **Automation & Tooling:** Docker, GitHub Actions
+- **Languages:** Python, C, C++, JavaScript (basic), TypeScript (basic)
+- **Web Technologies:** React (basic), HTML, CSS
+- **Testing & QA:** pytest, manual test design
+- **Automation & Tooling:** Docker (basic), Git, GitHub 
 - **Frameworks & Libraries:** OpenCV, MediaPipe, NumPy
-- **Practices:** Agile/Scrum-aware development, Git & GitHub workflows
 
 ### 🚀 Selected Projects
 
@@ -48,6 +45,6 @@ Command-line utility for safely organizing files by type.
 - Azerbaijani (Fluent)
 
 ### 🎯 Currently
-- Improving testing, documentation, and reliability in personal projects
-- Exploring automation, CI/CD, and developer productivity tools
-- Preparing for software engineering internships and working student roles
+- Working on personal and academic projects
+- Expanding technical knowledge and practical skills
+- Preparing for internships
