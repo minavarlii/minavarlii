@@ -17,10 +17,10 @@ I enjoy working on projects where clear structure and reliable behavior matter. 
 - Frontend development with a focus on reliability
 
 ### 🛠 Technical Skills
-- **Languages:** Python, C, C++, JavaScript (basic), TypeScript (basic)
-- **Web Technologies:** React (basic), HTML, CSS
+- **Languages:** Python, C, C++, JavaScript, TypeScript (basic)
+- **Web Technologies:** React, HTML, CSS
 - **Testing & QA:** pytest, manual test design
-- **Automation & Tooling:** Docker (basic), Git, GitHub 
+- **Automation & Tooling:** Docker, Git, GitHub 
 - **Frameworks & Libraries:** OpenCV, MediaPipe, NumPy
 
 ### 🚀 Selected Projects
